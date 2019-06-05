@@ -9,6 +9,7 @@
 - 吃晚饭时不能看综艺节目，吃饭时不能做其他事情。
 - 早上醒后就立即起床。
 - 受到打击后骑行一趟，不能玩游戏。
+- 要做的事不要告诉其他人。
 
 - Solve problem in time.
 - Do not covet petty gain.
@@ -19,3 +20,4 @@
 - Do not watch shows when dinner, not do other things when eat.
 - Get up immediately after waking up.
 - Riding after being hit, not playing game.
+- Don't tell others what you will do.
