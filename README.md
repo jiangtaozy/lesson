@@ -11,6 +11,7 @@
 - 受到打击后骑行一趟，不能玩游戏。
 - 要做的事不要告诉其他人。
 - 吃饭时不能看视频，而是看书。
+- 每天都要出去，工作或游玩，不能待在家里。
 
 - Solve problem in time.
 - Do not covet petty gain.
@@ -23,3 +24,4 @@
 - Riding after being hit, not playing game.
 - Don't tell others what you will do.
 - Do not watch shows when dinner, but reading.
+- Go out everyday, working or playing, not at home.
